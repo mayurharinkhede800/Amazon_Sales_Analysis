@@ -26,7 +26,7 @@ This project presents an interactive Amazon Sales Dashboard built using Power BI
 ✅ Sales Status Breakdown
 
 📁 Data Source
-File: Cleaned_amazon_sales_with_outlier.csv
+File: Cleaned_amazon_sales_sata.csv
 
 Rows: 1000+ records
 
